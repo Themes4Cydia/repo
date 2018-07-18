@@ -1,0 +1,8 @@
+Origin: Themes4Cydia
+Label: Themes4Cydia
+Suite: stable
+Version: 3.1~0
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: Themes4Cydia repo
